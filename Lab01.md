@@ -52,3 +52,5 @@ Put your words here
 ## Citations
 
 To add citations, provide the cite and a summary of what it assisted you with.  If generative AI was used, include which generative AI system was used and what prompt(s) you fed it.
+
+https://learn.microsoft.com/ assisted me with providing the definitions of what action the specific command line task performed. 
