@@ -42,7 +42,7 @@ My Command Line Shell is:
 7. Move the file named `test.txt` into `DirA`:
 8. Contents of `test.txt`:
 ```
-Put your words here
+You are doing great!
 ```
 9. Make a copy of `test.txt` named `copy.txt` in `DirA`:
 10. View the contents of `DirA`: 
